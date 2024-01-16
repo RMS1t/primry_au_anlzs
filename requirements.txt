@@ -1,0 +1,5 @@
+asgiref==3.7.2
+beautifulsoup4==4.12.2
+soupsieve==2.5
+sqlparse==0.4.4
+tzdata==2023.3
